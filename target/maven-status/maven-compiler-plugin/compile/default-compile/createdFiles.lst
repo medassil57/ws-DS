@@ -1,0 +1,3 @@
+com\example\restservice\RestServiceApplication.class
+com\example\restservice\IpController.class
+com\example\restservice\GetIpAddress.class
